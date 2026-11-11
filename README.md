@@ -1,1 +1,1 @@
-This project is created using HTML,CSS and JavaScript
+This project is created using HTMLand JavaScript
